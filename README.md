@@ -6,6 +6,7 @@ Using expert system shells for the development of Expert systems. These shells a
 Package Used
 --------------
 Pyknow (Deprecated)
+
 Experta (Pyknow version of Python 3+)
 
 Idea
