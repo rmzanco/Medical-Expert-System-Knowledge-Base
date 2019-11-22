@@ -225,6 +225,7 @@ class Greetings(KnowledgeEngine):
         print("")
         print("The most probable disease that you have is %s\n" % (id_disease))
         print("A short description of the disease is given below :\n")
+        print("------------------------------------------------------")
         print(disease_details + "\n")
         print("The common medications and procedures suggested by other real doctors are: \n")
         print(treatments + "\n")
